@@ -1,0 +1,26 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+
+span.cke_button_icon.cke_button__about_icon {
+    display: none;
+}
+
+.leftSide-editor.mt-5.p-3 {
+    background: #F7FAFC;
+    border: 1px solid #D2D6D8;
+    border-radius: 5px;
+   /* box-shadow: 0 0 2rem 0 rgba(136,152,170,.15) !important;*/
+}
+
+.cke_chrome {
+    display: block;
+    border: 1px solid #c6c6c6 !important;
+    padding: 0;
+}
+
+div#cke_1_contents {
+    height: 450px !important;
+}
